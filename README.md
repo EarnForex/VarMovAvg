@@ -6,6 +6,6 @@ The indicator shows clear buy and sell signals and supports all types of alerts.
 
 ![VarMovAvg shows some signals before a strong uptrend on the daily chart of the USD/JPY Forex pair](https://github.com/EarnForex/VarMovAvg/blob/main/README_Images/varmovavg-signals-strong-uptrend-usdjpy.png)
 
-More information about this custom MetaTrader/cTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Var-Mov-Avg/
+More information about this custom MetaTrader/cTrader indicator is available here: https://www.earnforex.com/indicators/Var-Mov-Avg/
 
 Any contributions to the code are welcome!
